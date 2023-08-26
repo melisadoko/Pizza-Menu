@@ -1,8 +1,8 @@
-# Pizza-Menu Project
+## Pizza-Menu Project
 
 Welcome to the Pizza-Menu Project from Jonas Schmedtmann's "The Ultimate React Course 2023: React, Redux & More."
 
-## Getting Started
+### Getting Started
 
 To get started with this project, follow these steps:
 
@@ -10,7 +10,7 @@ To get started with this project, follow these steps:
 2. **Install**: Install project dependencies using `npm install`.
 3. **Run**: Start the development server with `npm start`.
 
-## Technologies
+### Technologies
 
 - React
 - HTML
